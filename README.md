@@ -1,9 +1,9 @@
 # Todo List In Javascript + HTML
 <center><a href="">Open Page</a></center>
 <h3>Demo Image</img><br>
-<img src="assets/1.png">
+<img src="assets/IMG_20210620_143224.jpg">
 <h3>Tasks in this projects</h3>
-<img src="assets/2.png">
+<img src="assets/IMG_20210620_143431.jpg">
 <hr>
 This project is made in simple <code>Javascript + HTML</code>. This is beginner friendly projects.
 What does this project uses?
